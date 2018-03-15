@@ -10,7 +10,9 @@ For more tutorials and extended exercises, please see the website.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Machine Learning](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning) | Machine Learning |
+| [TensorFlow Basics](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/1_tensorflow_basic.ipynb) | What does TensorFlow do? |
+| [Arrays](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/2_Arrays_working_with_images.ipynb) | TensorFlow Arrays |
+| [Placeholders](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/3_Placeholders.ipynb) | Placeholders |
 
 ## License
 
