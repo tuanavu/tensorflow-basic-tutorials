@@ -10,9 +10,9 @@ For more tutorials and extended exercises, please see the website.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [TensorFlow Basics](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/1_tensorflow_basic.ipynb) | What does TensorFlow do? |
-| [Arrays](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/2_Arrays_working_with_images.ipynb) | TensorFlow Arrays |
-| [Placeholders](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/3_Placeholders.ipynb) | Placeholders |
+| [TensorFlow Basics](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/1_tensorflow_basic.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
+| [Arrays](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/2_Arrays_working_with_images.ipynb) | Using array to work with images. |
+| [Placeholders](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/3_Placeholders.ipynb) | Understand the concept of Placeholders |
 
 ## License
 
